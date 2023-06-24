@@ -1,0 +1,58 @@
+.toggle-pointer {
+	cursor: pointer;
+}
+
+.toggle-size {
+	width: 52%;
+	height: 15px;
+}
+
+.toggle {
+	width: 50%;
+	background-color: white;
+}
+
+.filter-cards {
+	width: 15%;
+}
+
+.card-borderes {
+margin-left: 0px;
+}
+.card-borderes:hover {
+margin-left: 0px;
+}
+.card {
+	margin-top: 10px;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	min-width: 0;
+	border: 0px;
+	border-radius: 0px;
+	border-color: white;
+}
+.card:hover{
+	border: 0px;
+	border-radius: 0px;
+	border-color: white;
+}
+.card-text {
+	text-align: center;
+	font-size: 18px;
+	height: 30px;
+	background-color: #cbcaca;
+}
+
+.filter-text {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.card-header {
+	height: 35px;
+}
+
+.card-container {
+	margin-top: -11px;
+}

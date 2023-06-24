@@ -1,0 +1,77 @@
+p{
+    margin-bottom: 0rem;
+    font-size: 15px;
+    color: gray;
+}
+hr{
+    margin: 10px 0;
+}
+a{
+    text-decoration: none;
+    text-align: end;
+}
+.text{
+font-size: 17px;
+	margin-left: 99px;
+	margin-bottom: 8px;
+}
+.profile-background-color {
+    background-color: #e5e5e5;
+    border-radius: 5px;
+}
+.text-card{
+    flex: 0 0 auto;
+    width: 52%;
+    margin-left: 50px;
+}
+.profile-card{
+    cursor: pointer;
+    width: 65%;
+    background-color: white;
+    justify-content: center;
+    margin: 0 auto;
+    display: flex;
+    margin-left: 100px;
+    height: 259px;
+    border-radius: 3px;
+    box-shadow: 0px 3px 5px 0px grey;
+}
+.profile-card:hover {
+    cursor: pointer;
+    width: 65%;
+    background-color: white;
+    justify-content: center;
+    margin: 0 auto;
+    display: flex;
+    margin-left: 100px;
+    height: 259px;
+    border-radius: 3px;
+    box-shadow: 0px 11px 22px 0px grey;
+}
+.people{
+	color: #d06262;
+}
+.comments{
+	color: #bababa;
+}
+.profile-text-btn{
+    color: #13f1c5;
+     width: 50%;
+}
+.profile{
+    font-size: 13px;
+}
+.profile-like{
+    color: #13f1c5;
+     height: 50px;
+}
+.profile-color{
+    font-weight:bold;
+}
+.profile-color:hover{
+    color: rgb(79 165 165);
+    font-weight:bold;
+}
+.profile-text{
+    font-size: 12px;
+}

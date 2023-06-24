@@ -1,0 +1,39 @@
+
+.toggle-pointer{
+    cursor: pointer;
+}
+.toggle-size{
+    width: 52%;
+    height: 15px;
+}
+.toggle{
+    width: 50%;
+    background-color: white;
+    border-width: 1px 1px 1px;
+}
+.filter{
+    margin-left: 72px;
+    width: 15%;
+   
+}
+.card-border{
+    border-radius: 3px;
+    border-color: #d9d7d7;
+  
+}
+.card-text{
+    text-align: center;
+    font-size: 18px;
+    height: 30px;
+    background-color: #cbcaca;
+}
+.filter-text{
+    font-size: 13px;
+    font-weight: bold;
+}
+.card-header{
+    height: 35px;
+}
+.card-container{
+    margin-top: -11px;
+}

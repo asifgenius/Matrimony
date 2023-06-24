@@ -1,0 +1,53 @@
+
+.age-size{
+    padding-left: 195px;
+    /* padding-right: 435px; */
+    padding-bottom: 30px;
+}
+.text-size{
+    font-size: 13px;
+}
+p{
+    font-size: 13px;
+    color: gray;
+}
+
+
+.container-scarch{
+    height: 35px;
+    border-radius: 3px;
+}
+.age-text{
+    padding-top: 7px;
+}
+
+.background{
+    background-color: white;
+    border-radius: 4px;
+    border: 1px solid #dfdfdf;
+}
+.link{
+    text-decoration: underline;
+}
+.link-btn{
+    color: #0dcaf0;
+}
+.link-btn:hover{
+    text-decoration: underline;
+    color: #0dcaf0;
+}
+.text-save{
+    font-size: 14px;
+}
+
+.button-text{
+    padding-left: 85px;  
+}
+
+.button{
+    color: white;
+}
+.button:hover{
+    color: white;
+    background-color: #1399b5;
+}

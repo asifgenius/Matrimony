@@ -1,0 +1,43 @@
+
+.nav-bar-color{
+    background-color: #ff7777;;
+    color: white;
+}
+.navbar-size{
+    margin-left: -89px;
+}
+.text-color{
+    color: white;
+}
+.text-color:hover{
+    color: white;
+}
+
+.nav-text{
+    margin-left: 100px;
+}
+.navBtn{
+    margin-left: 61px;
+}
+
+.nav-border{
+    height: 39px;
+    width: 100%;
+}
+.nav-border-bottom.nav-link.active{
+    border-bottom: 3px solid #ff7777;
+    padding-top: 8px;
+}
+.nav-bar-text{
+    margin-left: 257px;
+    padding-top: 7px;
+}
+
+.navBar{
+    padding-left: 35px;
+    padding-top: 7px;
+}
+
+.navbar-nav .nav-link.active {
+    color: white;
+}

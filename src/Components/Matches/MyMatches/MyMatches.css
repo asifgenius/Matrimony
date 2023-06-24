@@ -1,0 +1,15 @@
+.match-card {
+    display: grid;
+    width: 100%;
+    height: 1690px;
+}
+
+.text {
+    font-size: 17px;
+    margin-top: 23px;
+    padding-left: 9px;
+
+}
+.color-text{
+    color: gray;
+}

@@ -1,0 +1,27 @@
+.nav-border{
+    height: 39px;
+    width: 100%;
+}
+.nav-border-bottom:hover{
+    border-bottom: 3px solid #ff7777;
+    padding-bottom: 8px;
+}
+.nav-bar-text{
+ 
+    margin-left: 130px;
+}
+
+.navBar{
+    padding-left: 35px;
+    padding-top: 0px;
+    text-decoration: none;
+    color: gray;
+}
+.navbar-link{
+    text-decoration: none;
+    color: gray;
+}
+.navbar-link:hover{
+    text-decoration: none;
+    color: gray;
+}
