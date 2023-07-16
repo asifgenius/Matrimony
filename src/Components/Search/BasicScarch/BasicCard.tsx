@@ -219,7 +219,7 @@ function BasicScarch() {
 						<Row>
 							<Col xs={5} md={3}>
 								<p className="text-save fw-bold">Save up to 5 searches</p>
-								<p className="mt-3 mb-2">Save Scarch as</p></Col>
+								<p className="mt-3 mb-2">Save Search as</p></Col>
 							<Col xs={7} md={7}>
 								<div className="d-flex mt-3 mb-2">
 									<div className="d-flex">

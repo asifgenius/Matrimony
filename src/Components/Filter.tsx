@@ -6,8 +6,8 @@ import { RecenlyJoined, ActiveMembers, AnnualIncome, MaritalStatus, Relogion, Co
 function Filter() {
 	return (
 		<div>
-			<div className='card-text' >
-				<p className=''> Refine Scarch</p>
+			<div className='refine-card-text' >
+				<p className=''> Refine Search</p>
 			</div>
 			<Accordion item={"Recently Joined"}><RecenlyJoined></RecenlyJoined></Accordion>
 			<Accordion item={"Active Members"}><ActiveMembers></ActiveMembers></Accordion>

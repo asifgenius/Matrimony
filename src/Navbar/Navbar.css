@@ -5,6 +5,11 @@
 }
 .navbar-size{
     margin-left: -89px;
+    
+}
+.navbar-size:hover{
+    color: white;
+    
 }
 .text-color{
     color: white;

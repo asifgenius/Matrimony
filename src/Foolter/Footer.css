@@ -1,0 +1,22 @@
+footer{
+    background-color: #ff7777;
+    
+    position: sticky;
+    bottom: 0;
+    height: 36px;
+    display: flex;
+    align-items: center
+    
+}
+.footer-link{
+    color: white;
+    font-size: 13px;
+}
+.footer-link:hover{
+    color: white;
+    font-size: 13px;
+    text-decoration: underline;
+}
+.footers{
+    padding-left: 150px;
+}

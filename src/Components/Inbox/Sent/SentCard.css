@@ -1,0 +1,37 @@
+.sent-background-color {
+	background-color: white;
+	width: 78%;
+	height: 284px;
+	border-radius: 3px;
+	box-shadow: 0px 1px 4px 1px gray;
+	margin-bottom: 35px;
+}
+
+.sent-container {
+	height: auto;
+	padding-top: 4px;
+}
+
+.sent-text {
+	padding-top: 22px;
+	font-size: 17px;
+}
+
+.sent-card-text {
+	font-size: 18px;
+	padding-top: 11px;
+}
+
+.sent-card-link {
+	font-size: 18px;
+	padding-top: 11px;
+	color: #35c8c9;
+
+}
+
+.sent-card-link:hover {
+	font-size: 18px;
+	padding-top: 11px;
+	color: #35c8c9;
+	text-decoration: underline;
+}

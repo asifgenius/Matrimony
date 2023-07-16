@@ -1,0 +1,11 @@
+.dashboard-background-page {
+    background-color: #e3e2e2;
+    padding-top: 30px;
+    height: 569px;
+    padding-left: 188px;
+}
+
+.dashboard-details-background {
+    width: 80%;
+    padding: 8px;
+}

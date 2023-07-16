@@ -1,6 +1,12 @@
+.near-me-component {
+    background-color: #e3e2e2;
+    height: 300vh;
+    padding-top: 30px;
+}
+
 .match-card {
+    width: calc(100% - 250px);
     display: grid;
-    width: 100%;
     height: 1690px;
 }
 
@@ -10,6 +16,12 @@
     padding-left: 9px;
 
 }
-.color-text{
+
+.color-text {
     color: gray;
+}
+
+.filter {
+    width: 250px;
+    padding-left: 0px;
 }

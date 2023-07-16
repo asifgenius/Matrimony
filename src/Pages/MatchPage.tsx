@@ -27,10 +27,20 @@
 import React from 'react';
 import NewMatches from '../Components/Matches/NewMatches/NewMatches';
 import './MatchPage.css'
+import Filter from '../Components/Filter';
+import MatchCard from '../Components/MatchCard';
 function MatchPage() {
     return (
-        <div>
-        <NewMatches></NewMatches>
+        <div className='match-page'>
+            <div className='d-flex ' >
+                <div className='filter'>
+                    <Filter />
+                </div>
+                <div className='match-card'>
+                    <p className='text'> Members that match your Partner Preferences <a href="">Edit</a></p>
+                    <MatchCard />
+                </div>
+            </div>
         </div>
     )
 }

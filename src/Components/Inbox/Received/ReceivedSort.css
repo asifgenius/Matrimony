@@ -1,0 +1,22 @@
+.received-sort-filter {
+    /* width: 95%; */
+    width: 63%;
+    margin-left: 193px;
+    padding-top: 72px;
+}
+.received-sort-text{
+    background-color: #c9c7c7;
+    text-align: center;
+    border: 1px solid #cbc9c9;
+}
+.received-sort{
+    font-size: 17px;
+}
+.received-sort-item{
+    background-color: white;
+    border: 1px solid #cbc9c9;
+}
+.received-sort-text-size{
+    color: gray;
+    font-size: 13px;
+}

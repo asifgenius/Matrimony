@@ -1,0 +1,20 @@
+.Setting-Email-Card{
+    background-color: white;
+    width: 105%;
+    margin-left: 18px;
+    padding: 11px;
+    border-radius: 4px;
+}
+.setting-text{
+    padding-left: 185px;
+}
+.Setting-Email-account-text{
+    padding-left: 20px;
+  
+}
+.Setting-Email-Card-text{
+    padding-left: 69px;
+}
+.Setting-account{
+    font-size: 15px;
+}

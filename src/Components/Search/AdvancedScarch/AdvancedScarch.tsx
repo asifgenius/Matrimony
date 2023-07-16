@@ -9,7 +9,7 @@ function AdvancedScarch(){
     return(
         <>
         
-        <div className="background-color">
+        <div className="advanced-search-component">
 			<Row className="w-100">
 				<Col xs={8} md={8}>
 					<AdvancedCard></AdvancedCard>

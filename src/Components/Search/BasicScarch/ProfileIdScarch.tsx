@@ -6,26 +6,18 @@ import { Button } from "react-bootstrap";
 
 function ProfileIdScarch() {
 	return (
-		<>
 			<div className="mt-3">
 				<div className="backgroundColor">
 					<div>
 						<p className="text-cards save-card p-2 mt-1">
-						Profile ID Scarch</p>
+							Profile ID Search</p>
 					</div>
-					<div>
-						<div className="d-flex p-2 ">
-							<div>
-							 <input type="text" placeholder="Entry Profile ID"/> 
-							 </div>
-							 <div>							 
-						 <Button variant="info" className="profile-button ms-2"> Go</Button> 
-						 </div>
-						 </div>
+					<div className="d-flex p-2 ">
+						<input type="text" className="profile-id-scarch" placeholder="Entry Profile ID" />
+						<Button variant="info" className="profile-button ms-2"> Go</Button>
 					</div>
 				</div>
 			</div>
-		</>
 	)
 }
 

@@ -1,0 +1,24 @@
+.Dashboard-Profile-Card{
+    width: 100%;
+    border-radius: 5px;
+    background-color: white;
+}
+.Dashboard-Profile:hover{
+    background-color: rgb(236, 234, 234);
+}
+.Dashboard-Profile-edit{
+    padding-left: 150px;
+}
+.Dashboard-Profile-upgrade{
+    padding-left: 106px;
+}
+.Dashboard-Profile{
+    
+    padding: 8px;
+}
+.dashboard-images{
+    height: 118px;
+    padding-left: 80px;
+    width: 273%;
+    padding-top: 8px;
+}

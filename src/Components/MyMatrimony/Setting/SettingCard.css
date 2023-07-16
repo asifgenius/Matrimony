@@ -1,0 +1,13 @@
+.Setting-card-text{
+    font-size: 15px;
+}
+.Setting-card{
+    background-color: white;
+    border-radius: 4px;
+    width: 144%;
+}
+.Setting-card-text:hover{
+    background-color: rgb(233, 230, 230);
+    cursor: pointer;
+    font-size: 15px;
+}

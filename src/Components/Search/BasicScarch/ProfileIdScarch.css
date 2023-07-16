@@ -28,8 +28,10 @@ p {
 
 .profile-button:hover {
 	color: white;
-	width: 19%;
 	padding: 1px;
 	border-radius: 3px;
 	background-color: #1399b5;
+}
+.profile-id-scarch{
+	width: 252%;
 }

@@ -10,10 +10,10 @@ function SavedScarch() {
 					<div className="backgroundColor">
 						<div>
 							<p className="text-cards save-card p-2 ">
-								My Saved Scarches</p>
+								My Saved Searches</p>
 						</div>
 						<div>
-							<p className="p-2">  <FontAwesomeIcon icon={faCircleInfo} style={{ color: "#0860f7" }} /> You have no Saved Scarches</p>
+							<p className="p-2">  <FontAwesomeIcon icon={faCircleInfo} style={{ color: "#0860f7" }} /> You have no Saved Searches</p>
 						</div>
 					</div>
 				</div>

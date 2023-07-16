@@ -6,11 +6,10 @@ import Col from 'react-bootstrap/Col';
 import SavedScarch from './SavedScarch';
 import ProfileIdScarch from './ProfileIdScarch';
 import BasicCard from './BasicCard'
-function BasicScarch(){
+function BasicScarch() {
 
-	return(
-		<>
-		<div className="background-color">
+	return (
+		<div className="basic-search-component">
 			<Row className="w-100">
 				<Col xs={8} md={8}>
 					<BasicCard></BasicCard>
@@ -21,7 +20,6 @@ function BasicScarch(){
 				</Col>
 			</Row>
 		</div>
-		</>
 	)
 }
 

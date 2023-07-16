@@ -1,3 +1,6 @@
-.background-color{
+.basic-search-component{
+    background-color: #e3e2e2;
+    padding-top: 30px;
     height: 800px;
+    padding-left: 255px;
 }

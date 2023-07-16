@@ -1,0 +1,28 @@
+/* .request-filters{
+    width: 75%;
+    padding-left: 105px;
+    margin-left: 77px;
+    padding-top: 60px;
+
+} */
+.request-filters {
+    width: 100%;
+    margin-left: 77px;
+    padding-top: 60px;
+}
+.request-filter-text{
+    background-color: #c9c7c7;
+    text-align: center;
+    border: 1px solid #cbc9c9;
+}
+.request-text{
+    font-size: 17px;
+}
+.request-filter-item{
+    background-color: white;
+    border: 1px solid #cbc9c9;
+}
+.request-text-size{
+    color: gray;
+    font-size: 13px;
+}

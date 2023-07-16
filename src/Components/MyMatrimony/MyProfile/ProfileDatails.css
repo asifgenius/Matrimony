@@ -1,0 +1,75 @@
+
+.profile-background-color {
+    background-color: #e5e5e5;
+    border-radius: 5px;
+}
+.profile-details-age-image{
+    width: 18%;
+    border: 1px solid gray;
+    margin-right: 12px;
+    padding: 13px;
+    text-align: center;
+}
+.profile-details-age-image:hover{
+    width: 18%;
+    border: 1px solid gray;
+    margin-right: 12px;
+    cursor: pointer;
+    padding: 13px;
+}
+.profile-details-text {
+    background-color: lightgrey;
+    height: 50px;
+    text-align: left;
+    padding: 12px;
+
+}
+
+.profile-details-texts {
+    /* flex: 0 0 auto; */
+    width: 100%;
+    
+
+
+
+    /* margin-left: 50px; */
+}
+.profile-details-texts-border{
+    /* padding-left: 125px; */
+}
+.profile-details-age{
+    padding-right: 13px;
+}
+.profile-details-religion{
+    padding-right: 70px;
+}
+.profile-details-texts-size{
+    font-size: 13px;
+    width: 206%;
+}
+.profile-details-age-border{
+    width: 120%;
+}
+.profile-details-manage{
+    text-align: left;
+    font-size: 13px;
+
+    border: 1px solid gray;
+    width: 118%;
+    padding: 8px;
+    margin-left: 5px;
+}
+.profile-details-manage-text{
+    /* text-align: left; */
+    font-size: 17px;
+    color: red;
+    font-weight: bold;
+
+    width: 118%;
+    padding: 8px;
+    margin-left: 5px;
+}
+.preview-text-end{
+    text-align: right;
+    font-size: 13px;
+}

@@ -1,34 +1,73 @@
 const MENU = {
-	// key: value
-	// inbox  : ["signe", "cta", "sdsd", "scc"],
-	myMatrimony: [
-		"Dashboard",
-		"My Profile",
-		"My Photos",
-		"Setting",
-		"More"
+	myMatrimony: [ 
+		{        
+			name: "Dashboard",
+			link: "/dashboard"
+		}
+		,
+		{
+			name: "My Profile",
+			link: "/my-profile"
+		},
+		{
+			name: "Setting",
+			link: "/my-account"
+		},
+
 	],
 	matches: [
-		"New Matches",
-		"My Matches(3)",
-		"Near Me(1)",
-		"Recenly Views(1)",
-		"More Matches",
+		{
+			name: "New Matches",
+			link: "/match"
+		},
+		// {
+		// 	name: "My Matches(3)",
+		// 	link: "/parner"
+		// },
+		// {
+		// 	name: "Near Me(1)",
+		// 	link: "near-me"
+		// }
 	],
 
 	search: [
-		"Basic Scarch",
-		"Advanced Scarch"
+
+		{
+			name: "Basic Search",
+			link: "/search/basic-search"
+		},
+
+		{
+			name: "Advanced Search",
+			link: "/search/advanced-search"
+		},
 	],
 	inbox: [
-		"Received",
-		"Accepted",
-		"Requests",
-		"Send",
-		"Deleted"
-	]
+		{
+			name: "Received",
+			link: "/inbox/pending/interests"
+		},
 
+		{
+			name: "Accepted",
+			link: "/inbox/accepted/interests"
+		},
+		{
+			name: "Requests",
+			link: "/inbox/pending/requests"
+		},
+
+		{
+			name: "Send",
+			link: "/inbox/send/interests"
+		},
+
+		{
+			name: "Deleted",
+			link: "/inbox/archived/interests"
+		},
+
+	],
 };
-
 export { MENU };
 

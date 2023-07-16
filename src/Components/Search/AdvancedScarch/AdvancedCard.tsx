@@ -15,14 +15,12 @@ import SearchAccordion from './ScarchAccordion'
 
 function AdvancedCard() {
 	const animatedComponents = makeAnimated();
-	const [selectoption, setSelectoption] = useState()
 	return (
 		<>
 			<div className="age-size">
 				<div className="background">
 					<Container>
 						<MaritalStatusAndReligion></MaritalStatusAndReligion>
-						{/* <LocationAndGrewUpDetails></LocationAndGrewUpDetails> */}
 						<SearchAccordion item={"Location and Grew up in Details"}><LocationAndGrewUpDetails></LocationAndGrewUpDetails></SearchAccordion>
 						<SearchAccordion item={"Search Using Keyword"}><SearchUsingKeyword></SearchUsingKeyword></SearchAccordion>
 						<SearchAccordion item={"LifeStyle and Appearance"}><LifeStyleAndAppearance></LifeStyleAndAppearance></SearchAccordion>

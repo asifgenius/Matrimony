@@ -21,7 +21,7 @@ const MatchCard: FC = () => {
 					<div key={user.id} className='profile-background-color w-100'>
 						<Container>
 							<Row className='border-light border-1 justify-content-center profile-card' style={{ marginTop: "-270px" }}>
-								<Col><Card.Img variant="top" src="{user.image}/500px580" />
+								<Col><Card.Img variant="top" className='matches-image' src= {user.image} />
 								</Col>
 								<Col className='mt-3 mb-3 border-end border-1 text-card'>
 									<h5 className='text-sm-start'>{user.name}</h5>

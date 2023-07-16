@@ -6,9 +6,16 @@ import './ScarchPage.css'
 function ScarchPage() {
 	return (
 		<div>
-			<AdvancedScarch></AdvancedScarch>
-		</div>
+			{/* <Router>
+				<Routes>
+					<Route path="/basicscarch" element={<BasicScarch></BasicScarch>}> </Route>
+					<Route path="/advancedscarch" element={<AdvancedScarch></AdvancedScarch>}> </Route>
+				</Routes>
+			</Router> */}
 
+			<AdvancedScarch/>
+
+		</div>
 	)
 }
 export default ScarchPage;

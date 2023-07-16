@@ -1,0 +1,79 @@
+.filter-out-card-text{
+    padding-left: 25px;
+}
+.filter-out {
+    width: 60.5%;
+}
+.nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+    color: red;
+}
+.filter-out-card {
+    padding-left: 393px;
+}
+
+.filter-out-nav {
+    background-color: #e3e2e2;
+    /* width: 152%; */
+    width: 174%;
+}
+
+.filter-out-requests {
+    height: 51px;
+}
+
+.filter-out-requests {
+    padding: var(--bs-card-cap-padding-y) var(--bs-card-cap-padding-x);
+    margin-bottom: 0;
+    background-color: #e3e2e2;
+}
+
+.nav-tabs .nav-link:hover,
+.nav-tabs .nav-link.active {
+    color: red;
+    text-align: center;
+    background-color: #e3e2e2;
+    border-bottom: 3px solid red;
+}
+
+.filter-out-requests-tabs .nav-link.active {
+    background-color: #e3e2e2;
+    border-bottom: 3px solid red;
+    text-align: center;
+}
+
+.nav-tabs .nav-link {
+    margin-bottom: calc(-1 * var(--bs-nav-tabs-border-width));
+    background: 0 0;
+    border: 0px;
+    text-align: center;
+}
+.filter-out-button {
+    margin-left: -8px;
+    background-color: #e3e2e2;
+    color: gray;
+}
+
+.filter-out-filter-text {
+    margin-left: 70px;
+    color: gray;
+}
+
+.nav-item {
+    width: 27%;
+}
+
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    text-decoration: none;
+}
+
+.filter-out-cards-text {
+    height: 300px;
+    margin-top: 11px;
+    box-shadow: 0px 0px 5px 0px gray;
+    background-color: white;
+}

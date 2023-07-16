@@ -1,0 +1,21 @@
+.received-filter {
+    width: 63%;
+    margin-left: 193px;
+    padding-top: 11px;
+}
+.received-filter-text{
+    background-color: #c9c7c7;
+    text-align: center;
+    border: 1px solid #cbc9c9;
+}
+.received-filter-item-text{
+    font-size: 17px;
+}
+.received-filter-item{
+    background-color: white;
+    border: 1px solid #cbc9c9;
+}
+.received-filter-text-size{
+    color: gray;
+    font-size: 13px;
+}

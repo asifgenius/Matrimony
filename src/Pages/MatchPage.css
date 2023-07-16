@@ -3,3 +3,14 @@
     padding-top: 30px;
     height: auto;
 }
+
+.match-page{
+	background-color: #e3e2e2;
+	height: 300vh;
+    padding-top: 30px;
+}
+
+.filter {
+    width: 19%;
+    padding-left: 0px;
+}

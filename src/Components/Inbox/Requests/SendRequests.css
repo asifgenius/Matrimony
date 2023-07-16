@@ -1,0 +1,84 @@
+.nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+	color: red;
+}
+.pending-request-card{
+    padding-left: 75px;
+}
+.inbox-requests {
+	height: 51px;
+}
+
+.inbox-requests {
+	padding: var(--bs-card-cap-padding-y) var(--bs-card-cap-padding-x);
+	margin-bottom: 0;
+	background-color: #e3e2e2;
+}
+
+.inbox-cards {
+	background-color: #e3e2e2;
+}
+
+.nav-tabs .nav-link:hover,
+.nav-tabs .nav-link.active {
+	color: red;
+	text-align: center;
+	background-color: #e3e2e2;
+	border-bottom: 3px solid red;
+}
+
+.inbox-requests-tabs .nav-link.active {
+	background-color: #e3e2e2;
+	border-bottom: 3px solid red;
+	text-align: center;
+}
+
+.nav-tabs .nav-link {
+	margin-bottom: calc(-1 * var(--bs-nav-tabs-border-width));
+	background: 0 0;
+	border: 0px;
+	text-align: center;
+}
+
+.nav-item {
+	width: 27%;
+}
+
+.nav-link {
+	display: block;
+	padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+	font-size: var(--bs-nav-link-font-size);
+	font-weight: var(--bs-nav-link-font-weight);
+	text-decoration: none;
+}
+
+.accepted {
+	margin-left: 70px;
+	color: gray;
+}
+
+.send-requests-navbar {
+	width: 100%;
+	margin-left: 140px;
+	color: gray;
+}
+
+.pending-requests {
+	margin-left: -8px;
+	background-color: #e3e2e2;
+	color: gray;
+}
+
+.request-cards-text {
+	height: 300px;
+	margin-top: 11px;
+	box-shadow: 0px 0px 5px 0px gray;
+	background-color: white;
+
+}
+
+.pending-text {
+	text-align: center;
+	padding-top: 150px;
+	color: gray;
+}

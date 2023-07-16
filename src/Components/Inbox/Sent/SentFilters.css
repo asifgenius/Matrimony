@@ -1,0 +1,27 @@
+.sent-filters {
+	width: 75%;
+	padding-left: 105px;
+	margin-left: 77px;
+	padding-top: 60px;
+
+}
+
+.sent-filter-text-card {
+	background-color: #c9c7c7;
+	text-align: center;
+	border: 1px solid #cbc9c9;
+}
+
+.sent-filter-text {
+	font-size: 17px;
+}
+
+.sent-filter-item {
+	background-color: white;
+	border: 1px solid #cbc9c9;
+}
+
+.sent-text-size {
+	color: gray;
+	font-size: 13px;
+}

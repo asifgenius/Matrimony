@@ -1,0 +1,32 @@
+.Dashboard-activity-Card{
+    width: 165%;
+}
+.Dashboard-activity{
+    background-color: white;
+    border-radius: 4px;
+    padding-left: 3px;
+    width: 170%;
+}
+.Dashboard-activity:hover{
+    border-radius: 4px;
+    padding-left: 3px;
+    cursor: pointer;
+}
+
+.pending-card {
+    background-color: orange;
+    color: white;
+
+}
+
+.accepted-card {
+    background-color: blue;
+    color: white;
+
+}
+
+.recent-visitor-card {
+    background-color: green;
+    color: white;
+
+}
